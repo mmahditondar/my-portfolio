@@ -1,0 +1,16 @@
+{
+  "name": "tech-insights-blog",
+  "version": "1.0.0",
+  "description": "A modern blog covering web development, AI, and technology trends",
+  "private": true,
+  "license": "MIT",
+  "keywords": [
+    "blog",
+    "web-development",
+    "javascript",
+    "typescript",
+    "nextjs"
+  ],
+  "author": "Tech Insights Team",
+  "homepage": "https://example.com"
+}
